@@ -42,11 +42,6 @@ python minecraft.py
 Once loaded, the world generates around your spawn point automatically.
 You can explore infinitely — chunks load and unload dynamically as you move.
 
-🖼️ Preview (Add Screenshot)
-
-(Insert your screenshot here)
-Example: terrain with hills, trees, and day/night lighting.
-
 🧠 Code Highlights
 
 Pure Python implementation of Perlin noise
